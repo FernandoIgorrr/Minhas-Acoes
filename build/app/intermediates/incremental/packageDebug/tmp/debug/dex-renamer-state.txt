@@ -1,0 +1,4 @@
+#Mon Oct 02 22:26:07 BRT 2023
+base.0=/home/figor/Documentos/Projetos/androidP/f_converter_2_ext/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
